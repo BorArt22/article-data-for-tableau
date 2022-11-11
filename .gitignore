@@ -1,0 +1,4 @@
+/.ipynb_checkpoints
+api.cfg
+*.csv
+*.json
