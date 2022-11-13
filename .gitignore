@@ -2,3 +2,6 @@
 api.cfg
 *.csv
 *.json
+/arch
+/general
+/tags
